@@ -3,13 +3,13 @@ El repositorio del trabajo se puede encontrar [acá](http://www.github.com/jibar
 
 ## *Mergeando* códigos con conflicto
 
-Al intentar _mergear_ dos ramas que están en conflicto, recibimos el siguiente mensaje:  
+- Al intentar _mergear_ dos ramas que están en conflicto, recibimos el siguiente mensaje:  
 ![Conflicto resuelto](Images/noMerge.png)  
-Y al crear la _pull request_ obtenemos:  
+- Y al crear la _pull request_ obtenemos:  
 ![Conflicto resuelto](Images/noMerge2.png)  
-Entonces podemos optar por abrir el editor, y la herramienta nos va a mostrar dónde está el conflicto:  
+- Entonces podemos optar por abrir el editor, y la herramienta nos va a mostrar dónde está el conflicto:  
 ![Conflicto resuelto](Images/conflicto.png)  
-Una vez que resolvimos el conflicto, se obtiene lo siguiente:  
+- Una vez que resolvimos el conflicto, se obtiene lo siguiente:  
 ![Conflicto resuelto](Images/conflictoResuelto.png)  
 
 ---
