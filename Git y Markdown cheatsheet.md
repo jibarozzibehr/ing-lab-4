@@ -36,6 +36,13 @@ git branch -d <nombreRama>
 Eliminar rama remotamente
 ```bash
 git push origin --delete remoteBranchName
+```  
+Una vez eliminadas las ramas, hay que eliminar el *tracking* a las mismas:  
+```bash
+git remote prune origin
+```
+```bash
+git prune
 ```
 
 Martes
