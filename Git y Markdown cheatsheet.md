@@ -11,15 +11,15 @@ int main () {
 }
 ```
 ## Creando una nueva *branch* y haciendo una *pull request*
-Una vez que tenemos el repositorio clonado localmente, se pasa a crear una nueva *branch* y pasarnos a ella:  
+Una vez que tenemos el repositorio clonado localmente, creamos una nueva *branch* y nos pasamos a ella:  
 ```bash
 git checkout -b <nombreRama>
 ```  
-Luego de realizar los cambios, agregarlos y realizar el commit:  
+Luego de realizar los cambios, los agregamos y realizamos el commit:  
 ```bash
 git commit -a -m "Mensaje"
 ```  
-Realizar el *push*. La primera vez hay que setear el upstream:  
+Realizamos el *push*. La primera vez hay que setear el upstream:  
 ```bash
 git push --set-upstream origin <nombreRama>
 ```  
